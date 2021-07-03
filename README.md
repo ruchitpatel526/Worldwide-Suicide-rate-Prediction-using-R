@@ -1,7 +1,8 @@
 # Worldwide-Suicide-rate-Prediction-using-R
 
-This project uncovers essential features responsible for varying suicide rates in different countries, such as economic level, health services, and unemployment rates. Also, the project proves the correlations.
+This project aims to predict country-level suicide rates using machine learning models. The experiments run by using historical data with comprise several demographic features of suicide and countries’ indicators as where the suicide occurs during the years from 1985 to 2016. Moreover, it contributes to uncover ways to guide countries prevent suicide. 
 
+This project uncovers essential features responsible for varying suicide rates in different countries, such as economic level, health services, and unemployment rates. Also, the project proves the correlations.
 
 The kinds of analysis done in this project will enable decision makers to generate a holistic understanding of the trend of suicides across many dimensions and possibly take measures to combat it.
 
