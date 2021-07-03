@@ -12,37 +12,14 @@ In a world, where technology peeps its face in every second aspect of human live
 
 Thus, keeping in mind the above facts, the main idea of this project is to create a model to analyze the trends between several variables. Using the variables like Country, Year, Sex, Age, Suicide number, Population, Suicide per 100k population, GDP for year ($), GDP per capita ($), Generation and more we can predict how GDP is correlated with suicide rates, in which generation are the maximum suicides observed, etc.
 
+
 DATA DESCRIPTION
-				            	
+		
+		
 About the Dataset:
+
 	The Dataset chosen by us is ‘Worldwide Suicide Rate.’
+
 	Link:https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
 	No. of records: 27821
-In our problem, the data that should be fed for the machine to decide and predict effectively has to be measure of variability in depressive symptoms along with other relevant factors such as younger age, mood disorders, childhood abuse, and personal and parental history of suicide attempts, etc.
-COLUMN NAME 	MODEL ROLE	DATA TYPE	DESCRIPTION
-country
-	Ident	Categorical	Country Name
-Year
-	Input	Numeric	Year 
-Sex
-	Ignore	Categorical	Male/Female
-Age
-	Ignore	Categorical	Age of suicide Committer
-Suicide_no
-	Target	Numeric	Total number of suicides
-Population
-	Input	Numeric	Population of the country
-Suicide per 100k Population
- 	Target	Numeric	Ratio of total number of suicides and population of 100k
-country-year
-	Ignore	Categorical	Name of country with year
-HDI for year
-	Ignore	Numeric	Human Development index for that country for specific year
-GDP for year ($)
-	Input	Numeric	Gross domestic product index for that country for specific year
-GDP per capita ($)
-	Input	Numeric	Ratio of Gross domestic product index and Capital value 
-Generation
-	Ignore	Categorical	Generation category of the suicide committer
-
-
