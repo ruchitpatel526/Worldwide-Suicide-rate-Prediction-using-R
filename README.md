@@ -1,0 +1,1 @@
+# Worldwide-Suicide-rate-Prediction-using-R
