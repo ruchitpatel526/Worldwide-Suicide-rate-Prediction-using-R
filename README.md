@@ -1,5 +1,18 @@
 # Worldwide-Suicide-rate-Prediction-using-R
 
+
+DATA DESCRIPTION
+		
+		
+About the Dataset:
+
+	The Dataset chosen by us is ‘Worldwide Suicide Rate.’
+
+	Link:https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
+	No. of records: 27821
+
+
 This project aims to predict country-level suicide rates using machine learning models. The experiments run by using historical data with comprise several demographic features of suicide and countries’ indicators as where the suicide occurs during the years from 1985 to 2016. Moreover, it contributes to uncover ways to guide countries prevent suicide. 
 
 This project uncovers essential features responsible for varying suicide rates in different countries, such as economic level, health services, and unemployment rates. Also, the project proves the correlations.
@@ -12,14 +25,3 @@ In a world, where technology peeps its face in every second aspect of human live
 
 Thus, keeping in mind the above facts, the main idea of this project is to create a model to analyze the trends between several variables. Using the variables like Country, Year, Sex, Age, Suicide number, Population, Suicide per 100k population, GDP for year ($), GDP per capita ($), Generation and more we can predict how GDP is correlated with suicide rates, in which generation are the maximum suicides observed, etc.
 
-
-DATA DESCRIPTION
-		
-		
-About the Dataset:
-
-	The Dataset chosen by us is ‘Worldwide Suicide Rate.’
-
-	Link:https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
-
-	No. of records: 27821
